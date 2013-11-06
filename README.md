@@ -73,7 +73,7 @@ thought. A lot of existing research has been performed, we need to read about
 that, find interesting idea's and come up with new ones.
 
 Ideas from text retrieval can be used here, like grammar composition and markov
-chains.
+chains. Maybe something like a non-turing complete domain specific language.
 
 #### Implementation
 
