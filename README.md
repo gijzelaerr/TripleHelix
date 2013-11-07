@@ -110,3 +110,7 @@ requirements and potentially greatly enhanced usability and responsiveness
 of the user interface:
 
 http://oampo.github.io/Audiolet/
+
+# links
+
+http://ismir2012.ismir.net/
